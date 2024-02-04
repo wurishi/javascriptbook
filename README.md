@@ -1,1 +1,1 @@
-# javascriptbook
+[link](./note.md)
